@@ -23,7 +23,7 @@
     "url": "https://github.com/instalator/ioBroker.mikrotik.git"
   },
   "dependencies": {
-    "mikronode-ng": "https://github.com/homeinstalator/mikronode-ng/archive/v1.0.11.tar.gz",
+    "mikronode-ng": "https://github.com/homeinstalator/mikronode-ng/archive/refs/tags/v1.0.0.tar.gz",
     "@iobroker/adapter-core": "^2.4.0"
   },
   "devDependencies": {
