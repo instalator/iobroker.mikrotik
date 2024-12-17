@@ -206,7 +206,7 @@
         "type": "string",
         "read": false,
         "write": true,
-        "def": false
+        "def": ""
       },
       "native": {}
     }
